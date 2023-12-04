@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "767646382733",
+    "project_id": "wocoapp-9a2c6",
+    "storage_bucket": "wocoapp-9a2c6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:767646382733:android:7f7161d2a781ae855580c4",
+        "android_client_info": {
+          "package_name": "com.woco"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBFU0oWTx_kItSoc19mXqoV8O6IVcufBEg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
